@@ -1,0 +1,36 @@
+boby{
+    background-color: rgb(145, 145, 145);
+}
+.box{
+    width:  980px;
+    margin:  15px auto;
+    background-color: rgb(255, 255, 255);
+    padding:  20px;
+    border-radius:  20px;
+}
+ .data{
+    color: rgb(183, 184, 185);
+ }
+ .pic{
+    text-align: center;
+ }
+ .pic img{
+    width: 800px;
+ }
+ #main_menu{
+    list-style: none;
+    padding-left:  0px;
+ }
+ #main_menu li{
+    display: inline-block;
+ }
+ #main_menu li a{
+    display: block;
+    padding: 10px 30px;
+    font-size: 25px;
+    color: aliceblue;
+    text-decoration: none;
+}
+    #main_menu li a:hover{
+        color: rgb(183, 184, 185);
+}
